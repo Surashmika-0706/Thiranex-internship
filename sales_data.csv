@@ -1,0 +1,11 @@
+Product,Category,Price,Quantity,Sales
+Laptop,Electronics,50000,5,250000
+Mobile,Electronics,25000,10,250000
+Printer,Electronics,15000,6,90000
+Chair,Furniture,5000,12,60000
+Table,Furniture,8000,8,64000
+Sofa,Furniture,30000,3,90000
+Fan,Appliances,2500,20,50000
+AC,Appliances,40000,4,160000
+TV,Electronics,45000,5,225000
+Washing Machine,Appliances,35000,3,105000
